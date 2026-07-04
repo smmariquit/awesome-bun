@@ -1,8 +1,8 @@
 <p align="center">
-  <br>
-  <img width="160" src="./awesome-bun.png" alt="logo of awesome-bun repository">
-  <br>
-  <br>
+ <br>
+ <img width="160" src="./awesome-bun.png" alt="logo of awesome-bun repository">
+ <br>
+ <br>
 </p>
 
 <h2 align='center'>Awesome Bun</h2>
@@ -16,7 +16,7 @@ A curated list of awesome things related to <a href='https://github.com/oven-sh/
 </a>
 </p>
 
-Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package manager: all in one.
 
 ## Contents
 
@@ -40,7 +40,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 - [Exploring Bun](https://jenil777007.hashnode.dev/lets-bun)
 - [Scaffolding your bun project](https://codetea.com/scaffolding-your-bun-project-boilerplate/)
-- [Bun Tutorial – Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
+- [Bun Tutorial: Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
 - [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
 - [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
@@ -84,7 +84,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [BunWork](https://github.com/happer64bit/bunwork) - Simple, Fast and Minimalist Backend Framework with No Pain
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
-- [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
+- [Blade](https://github.com/ronin-co/blade): Build instant web apps with React.
 
 ### Libraries
 
@@ -149,7 +149,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bunbot](https://github.com/wobsoriano/bunbot) - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
-- [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
+- [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript.js file or TypeScript.ts file by Bun.
 
 ## Community
 
@@ -162,7 +162,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Contributing
 
-This repository is built for the community. Submit packages, articles, blogs, videos and more that utilizes Bun to share with the developer community. Please refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for details.
+This repository is built for the community. Submit packages, articles, blogs, videos and more that uses Bun to share with the developer community. Please refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for details.
 
 ## License
 
